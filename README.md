@@ -1,4 +1,4 @@
-# VectorShift Frontend Technical Assessment
+# Frontend 
 
 ## Overview
 This project implements a modular node-based pipeline builder with backend DAG validation.
